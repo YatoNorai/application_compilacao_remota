@@ -131,6 +131,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.16.0"
+  motor:
+    dependency: "direct dev"
+    description:
+      name: motor
+      sha256: fac1d98dc93761feda9867273fffa07be419129d1c38613a32efc87cb9e67054
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.0-dev.5"
   path:
     dependency: transitive
     description:
